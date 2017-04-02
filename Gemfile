@@ -25,6 +25,9 @@ gem "middleman-blog", "~> 3.5.3"
 gem "builder", "~> 3.0"
 
 gem 'nokogiri'
+# gem 'nokogiri', "~> 1.6.8"
+# gem 'nokogiri', '1.6.8'
+# gem 'nokogiri', '1.6.7.1'
 
 gem 'middleman-dragonfly_thumbnailer'
 
